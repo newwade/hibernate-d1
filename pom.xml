@@ -4,7 +4,7 @@
   <artifactId>hiberdemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
    <dependencies>
-  
+ 
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
@@ -15,5 +15,6 @@
             <artifactId>postgresql</artifactId>
             <version>42.2.23</version>
         </dependency>
+        
     </dependencies>
 </project>

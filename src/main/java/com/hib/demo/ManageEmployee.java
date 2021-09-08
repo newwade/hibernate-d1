@@ -29,7 +29,7 @@ public class ManageEmployee {
       Integer empID3 = ME.addEmployee("John", "Paul", 10000);
 
       /* List down all the employees */
-      ME.listEmployees();
+      ME.listEmployees();	
 
       /* Update employee's records */
       ME.updateEmployee(empID1, 5000);
